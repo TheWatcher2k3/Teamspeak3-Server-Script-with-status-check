@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 # TeamSpeak 3 Server Monitor
 
 Ein POSIX-Shell-Script zur Überwachung und Steuerung eines TeamSpeak-3-Servers. Der Cron-Modus prüft den Server und startet ihn erneut, wenn er nicht mehr läuft. Bei einem normalen Lauf ohne Fehler wird kein Logeintrag erzeugt.
