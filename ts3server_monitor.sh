@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 #!/bin/sh
 # Monitor and control the TeamSpeak 3 server through its supplied start script.
 # Example cron entry (run as teamspeak, once per minute):
